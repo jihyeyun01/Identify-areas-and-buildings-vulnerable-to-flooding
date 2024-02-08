@@ -1,1 +1,1 @@
-# Identify-areas-and-buildings-vulnerable-to-flooding
+# 침수에 취약한 지역 및 건물 파악
